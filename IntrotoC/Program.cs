@@ -34,6 +34,9 @@ namespace IntrotoC
             int stars = 3000;
             Console.WriteLine("There are " + stars + " in the sky");
             Console.Read();
+            DateTime theDate = DateTime.Now;
+            Console.WriteLine("The current date is " + theDate);
+            Console.Read();
         }
     }
 }
