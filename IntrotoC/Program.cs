@@ -10,6 +10,14 @@ namespace IntrotoC
     {
         static void Main(string[] args)
         {
+            int dogs = 10;
+            int sandwiches = 3;
+            double dinner = 5.75;
+            string carColor = "green";
+            string carMake = "Honda";
+            string model = "Jennifer";
+            string firstLetter = "A";
+            int stars = 
         }
     }
 }
